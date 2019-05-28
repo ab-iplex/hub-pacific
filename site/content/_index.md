@@ -1,6 +1,6 @@
 ---
 title: Great coffee with aaaaaaa
-title2: Home 2
+title2: Home 2fghfghfghfghfghfgh
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
